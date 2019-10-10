@@ -1,4 +1,3 @@
-package eular;
 /*
  * Problem 2 :
 
